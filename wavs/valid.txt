@@ -1,0 +1,109 @@
+-01.wav|Un canza es un treng nuoy xo tronk e gung pei
+-02.wav|Un canza pei es di yan rey pei xo qui gung canza
+-03.wav|Le zi goy mon un canza, din y un canza pei
+-04.wav|Toy qui anh gung biet, kun toy mon y qui gung biet pel gung biet khi kavay y toy
+-05.wav|Vi lag qualle es un vi lag ruoua pret eng lanta qualle
+-06.wav|Vi lag qualle es un chong chingeng vi lag ruoua chingeng tor Mi Lan
+-07.wav|Toy qui nuoy gung biet pel toy din y gung chong ke-Gung chengnin
+-08.wav|Vi lag qualle es di plu tot vi lag
+-09.wav|Un canza es di plu tot treng nuoy pel to es kyong treng uong
+-10.wav|Gung vi lag khi ruoua ruong y pret mit choon gung chengnin
+-11.wav|Di yan rey nag eng tonko ketoy es vi chyon shang hat
+-12.wav|Ca, toy khong kyong un chengnin, toy khong un trung chung
+-13.wav|Vi lag qualle es un vi lag sap vi lag viet pel Mi Lan ruo hob vi lag viet
+-14.wav|Wan toy khay yio ketoy, toy khong cwoi
+-15.wav|Di plu tot chong es chong ketoy
+-16.wav|Di plu tot chong es chong kegoy
+-17.wav|Gung shang hat qui lyrics
+-18.wav|Khi goy ca?
+-19.wav|Toy khong un ruo xento chengnin, khi toy mon y ngung un chengnin phu
+-20.wav|Toy khong Milan, ay khi goy
+-21.wav|Toy khong Karen, ay khi goy
+-22.wav|Jor Nor es rey trong gung biet ke-Mi Lan
+-23.wav|Mi Lan khi Jor Nor khi qui cwoi
+-24.wav|Gung chengnin khi gung zange, vao qao nen goy chatch
+-25.wav|Mi Lan es un zung chungu
+-26.wav|Di gung zung chungu chad gung zange, khi xo es brong
+-27.wav|Toy khong un vi lag viet chengnin, khi toy chonoch eng lanta hobo
+-28.wav|Lo sia es di canza pei
+-29.wav|Lo sia es chong ketoy
+-30.wav|Lo sia es chong kegoy
+-31.wav|Es chong kegoy xar
+-32.wav|Wan toy khay yia ketoy, toy mon y din
+-33.wav|Di kos es tot y xeet, khi to es di plu tot treng
+-34.wav|Toy xuc kos es di plu tot treng
+-35.wav|Kos ketoy es eng di pho seng nuoy
+-36.wav|Toy xeet gung kos khi gung canza ketay
+-37.wav|Di yan rey nag eng tonko ketoy es xeet chyon kos
+-38.wav|Kos es tot y xeet
+-39.wav|Toy mon kos pel kos es tot y xeet
+-40.wav|Vi lag ang es tot y pret, pel di vi lag es ruoua pret xar khi xem
+-41.wav|Vi lag ang es tot y pret
+-42.wav|Kos es tot pel to es di plu tot treng kun to es kyong un treng hung
+-43.wav|Vi lag qualle es un chong chingeng vi lag tor Mi Lan
+-44.wav|Di vi lag ruoua yung thong eng di gai
+-45.wav|Tini vi lag qualle, hoy Qualleish (di vi lag ang nym ke-Vi lag qualle es Qualleish gu) ruo ruoua chingeng eng 2022
+-46.wav|Vi lag qualle qui gung geyang
+-47.wav|Tini vi lag qualle ruo ruoua chingeng eng 2022 y huoc 2022
+-48.wav|Neng gung corto eng tini vi lag qualle khi eng xama vi lag qualle, chegig nym
+-49.wav|Vi lag qualle ruo ruoua chingeng eng 2022
+-50.wav|Vi lag lan es un vi lag ruoua pret eng lanta lan, vi lag lan es ze
+-51.wav|Vi lag lan es pret eng lanta lan, lanta nuoy lan khi lanta nuoy nheng
+-52.wav|Lanta nuoy lan es un lanta xar hoy os lanta lan khi lanta hap
+-53.wav|Toy ruoua chingeng un vi lag, nen to es un chong chingeng vi lag
+-54.wav|Vi lag hobo es un vi lag ruoua pret eng lanta hobo khi choon gung lanta
+-55.wav|Chamt lahn ketoy es kyong cher, xixo goy ziup toy?
+-56.wav|Goy khong biet ketoy khi toy khong biet kegoy
+-57.wav|2024 es di xaung tay
+-58.wav|Xang, xuont!
+-59.wav|Toy khong kyong 11
+-60.wav|Toy khong kyong 12
+-61.wav|Toy chig goy, ngoung goy chig toy?
+-62.wav|Di yan rey nag eng tonko kegoy es toy
+-63.wav|Toy ong mon y va
+-64.wav|Gung zange khi choange
+-65.wav|Es di zange choange?
+-66.wav|Khi goy ca tuang?
+-67.wav|Toy ong gon ly
+-68.wav|Chin che di xuont
+-69.wav|Toy chin che xacho di xuont
+-70.wav|Di xuont es choange, kun toy khong tot
+-71.wav|Eng 2020, 1000 gung chengnin ruoua va eng lanta fluyen
+-72.wav|Khi goy choange?
+-73.wav|Toy vi chamt lahn ketay, gong din soy songo di chamt lahn
+-74.wav|Vi lag fluyen es un vi lag ruoua pret eng lanta fluyen
+-75.wav|Toy khong di plu tot chengnin eng di xuont
+-76.wav|Mi Lan mon y hob vi chamt lahn
+-77.wav|1 2 3 din!
+-78.wav|Yeng tay ngong va, khi le zi goy ong mon y, brong
+-79.wav|Di yan rey chengnin xo es tot es toy
+-80.wav|Chyon es di 80 corto mang eng chyon esto
+-81.wav|Xang, toy khong un yia, toy chig gung yio
+-82.wav|Di yan rey gesoy y chingeng un vi lag, es tor chingeng xama gung corto
+-83.wav|Goy khong un du the mas, kyong un du the phu
+-84.wav|Gung zange, tini hoy xama, xixo va, mit gung chengnin, to es sang
+-85.wav|Di plu brong nag es va, pel toy ong mon y va toy ngong chonoch eng lanta hap
+-86.wav|Wan di xin es 5, toy neo y din
+-87.wav|Toy ex goy, ngoung goy mon un canza?
+-88.wav|Gung vi lag khi tot, kun toy ong chatch en ti yang y hob un vi lag tuang
+-89.wav|Toy ruoua thoch, khi chik toy ruoua khay goy. Xang!
+-90.wav|Toy mon y din y chong kegoy pel chong kegoy es di plu tot chong toy chatch
+-91.wav|Ngoung goy pret vi lag ang, vi lag zhi khi vi lag lan?
+-92.wav|Da Y Tono es di plu tot gesoy y chingeng gung tono troy da
+-93.wav|Wan toy pret mit biet ketoy toy xuc toy khong kyong brong
+-94.wav|Kun tay, toy ong chatch un nag khi toy mor lang gung sag
+-95.wav|Yau ruo ruoua eng di bing thong khi zat noj gung shang hat eng vi lag ang ruoua come
+-96.wav|Milan es un shang hat ruoua chingeng tor MMP Plus
+-97.wav|Tuang, di shang hat es eng di album "Rey Gung Shang Hat"
+-98.wav|Tini vi lag qualle ruo sap vi lag spi
+-99.wav|Xang, toy khong Mi Lan, khi toy chig sang ketoy. [giggling] ca, toy chig to, toy chig to
+-100.wav|[happy] Ca! Toy ruoua truang! Toy khong cho cwoi!
+-101.wav|Toy khong un lanta qualle chengnin, khi toy chig to
+-102.wav|Goy khong di plu tot chengnin toy chatch
+-103.wav|Ngoung goy mon y biet toy? Ca hoy gong?
+-104.wav|Ketay os di xin 3 hoy 2
+-105.wav|Eng 1500, di gung xin ruo xama
+-106.wav|Xang, toy khong di chingeng chengnin trong vi lag qualle, khi "Xang" es un corto y... pret xang
+-107.wav|Toy ruoua xuc gon to, khi, gong, goy ong neo y chingeng to, nen, gong
+-108.wav|Xang
+-109.wav|Goy?
